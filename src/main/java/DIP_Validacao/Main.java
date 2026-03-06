@@ -1,8 +1,9 @@
 package DIP_Validacao;
 
 import DIP_Validacao.Interface.IComunicador;
-import DIP_Validacao.Service.ServicoEmail;
-import DIP_Validacao.Service.ServicoSMS;
+import DIP_Validacao.Service.RecuperadorDeSenha;
+import DIP_Validacao.Comunicacao.ServicoEmail;
+import DIP_Validacao.Comunicacao.ServicoSMS;
 
 public class Main {
 

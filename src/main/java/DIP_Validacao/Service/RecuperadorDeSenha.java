@@ -1,4 +1,4 @@
-package DIP_Validacao;
+package DIP_Validacao.Service;
 
 import DIP_Validacao.Interface.IComunicador;
 
